@@ -1,4 +1,4 @@
-# upp.vim
+# upp.nvim
 
 Ultimate++ support for Neovim.
 
